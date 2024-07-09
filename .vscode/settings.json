@@ -105,6 +105,6 @@
 	"search.exclude": {
 		"**/.yarn": true
 	},
-	"git.ignoredRepositories": ["specs"],
+	"git.ignoredRepositories": ["specs", "vscode-config-editor"],
 	"search.followSymlinks": false
 }
